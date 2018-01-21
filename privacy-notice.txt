@@ -1,0 +1,19 @@
+GDPR Privacy Notice
+
+Jeff Holliday Software will be what’s known as the ‘Controller’ of the personal data you provide to us. We do not store or use any personal data - the only reason we have this notice is to be in compliance with Login With Amazon's policy. Smart home skills are required to have a login component and this skill fulfills that using Login with Amazon.
+
+Why we need your data
+
+We need to authenticate using "Login with Amazon" to fulfill the requirement that Alexa smart home skills use a login.
+
+ What we do with your data
+
+We do nothing with your data.
+
+How long we keep your data
+
+We do not keep your data.
+
+ What we would also like to do with your data
+
+We do nothing with your data.
